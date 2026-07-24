@@ -102,18 +102,15 @@ When I'm not writing software you'll usually find me behind the drums with **Xci
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=truppel&show_icons=true&theme=tokyonight&rank_icon=github"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=truppel&layout=compact&theme=tokyonight"
-  />
-</p>
+Check out my repositories and recent work:
+
+* [My GitHub Profile](https://github.com/truppel)
+* [My Repositories](https://github.com/truppel?tab=repositories)
+
+I'm currently building projects with React, JavaScript, Python, REST APIs, and Git.
+
 
 ---
 
