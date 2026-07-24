@@ -105,11 +105,14 @@ When I'm not writing software you'll usually find me behind the drums with **Xci
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=truppel&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truppel&layout=compact&theme=tokyonight"/>
-
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=truppel&show_icons=true&theme=tokyonight&rank_icon=github"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=truppel&layout=compact&theme=tokyonight"
+  />
 </p>
 
 ---
