@@ -1,23 +1,25 @@
-### Where Y'at?? 👋
+const terry = {
+  name: "Terrance Ruppel",
+  location: "New Orleans",
+  role: "Software Developer",
+  currentlyLearning: [
+    "React",
+    "Python",
+    "REST APIs",
+    "Git"
+  ],
+  currentlyBuilding: [
+    "Band Analytics Dashboard",
+    "WordPress Projects"
+  ],
+  hobbies: ["🥁 Drumming", "🎵 Live Music", "📷 Photography"]
+};
 
-
-<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=truppel.truppel)-->
-<!--[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)-->
-
-```python
-
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class Developer:
-
-    def __init__(self):
-        self.name = "Terrance Ruppel"
-        self.role = "Developer, Drummer"
-        
-    def say_hi(self):
-        print("Hello from NOLA.  Contact me if you are interested in talking more about my work.")
-
-
-me = SoftwareEngineer()
-me.say_hi()
+export default function Profile() {
+  return (
+    <>
+      <h1>Hi, I'm {terry.name}</h1>
+      <p>Building cool things one commit at a time.</p>
+    </>
+  );
+}
