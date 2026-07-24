@@ -8,8 +8,8 @@ Building software by day. Playing funk by night.
 
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge)](https://github.com/YOUR_USERNAME)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/truppel?style=for-the-badge)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=truppel&style=for-the-badge)](https://github.com/YOUR_USERNAME)
 
 </div>
 
