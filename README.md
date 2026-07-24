@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Terry Ruppel
 
-### Software Developer • React Student • Musician
+### Software Developer • Student • Musician
 
 <!-- Building software by day. Playing funk by night. -->
 
