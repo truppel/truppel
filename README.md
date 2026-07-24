@@ -4,13 +4,13 @@
 
 ### Software Developer • React Student • Musician
 
-Building software by day. Playing funk by night.
+<!-- Building software by day. Playing funk by night. -->
 
 ---
-
+<!--
 [![GitHub followers](https://img.shields.io/github/followers/truppel?style=for-the-badge)](https://github.com/YOUR_USERNAME)
 [![Profile Views](https://komarev.com/ghpvc/?username=truppel&style=for-the-badge)](https://github.com/YOUR_USERNAME)
-
+-->
 </div>
 
 ---
@@ -106,9 +106,9 @@ When I'm not writing software you'll usually find me behind the drums with **Xci
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=truppel&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truppel&layout=compact&theme=tokyonight"/>
 
 </p>
 
