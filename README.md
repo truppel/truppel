@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Terry Ruppel
 
-### Software Developer • Student • Musician
+### Software Developer • NOLA Proud • Musician
 
 <!-- Building software by day. Playing funk by night. -->
 
