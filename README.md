@@ -18,7 +18,7 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const terry = {
+const terrance = {
     location: "New Orleans, Louisiana",
 
     occupation: "Software Developer",
