@@ -116,6 +116,6 @@ I'm currently building projects with React, JavaScript, Python, REST APIs, and G
 
 <div align="center">
 
-> "Always learning. Always building."
+> "Always learning. Always building." >
 
 </div>
