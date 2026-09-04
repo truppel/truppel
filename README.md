@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Terry Ruppel
+# 👋 Hi, I'm Terrance Ruppel
 
 ### Software Developer • NOLA Proud • Musician
 
-<!-- Building software by day. Playing funk by night. -->
+<!-- Building software by day. Playing music at night. -->
 
 ---
 <!--
@@ -46,7 +46,7 @@ const terry = {
     funFact: "🥁 Drummer for Xcitement Band"
 }
 
-export default terry;
+export default terrance;
 ```
 
 ---
